@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextureApply
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 0d880c8b59e124c85b246ec9f9811c52,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: baseMaterial
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: textureList.Array.size
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: textureList.Array.data[0]
+    value: 
+    objectReference: {fileID: 2800000, guid: 45e642741454dcc4994f8471caa9c945, type: 3}
+  - target: {fileID: 0}
+    propertyPath: textureList.Array.data[1]
+    value: 
+    objectReference: {fileID: 2800000, guid: 54d78f943f2749040b0a1a8056d27836, type: 3}
+  - target: {fileID: 0}
+    propertyPath: textureList.Array.data[2]
+    value: 
+    objectReference: {fileID: 2800000, guid: 52e201702bed94712933aa409a72c130, type: 3}
+  - target: {fileID: 0}
+    propertyPath: textureList.Array.data[3]
+    value: 
+    objectReference: {fileID: 2800000, guid: ac96f990b51273f4f8db02028291bdb3, type: 3}
+  - target: {fileID: 0}
+    propertyPath: textureList.Array.data[4]
+    value: 
+    objectReference: {fileID: 2800000, guid: 282b536079807e54faf4d46e46e632a3, type: 3}
+  - target: {fileID: 0}
+    propertyPath: textureList.Array.data[5]
+    value: 
+    objectReference: {fileID: 2800000, guid: bf4c6910e274d624eb213c2a0ebf7772, type: 3}
+  - target: {fileID: 0}
+    propertyPath: normalMaps.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: normalMaps.Array.data[0]
+    value: 
+    objectReference: {fileID: 2800000, guid: 09c20f0c8fdd6db4b8910876ba5e421a, type: 3}
+  - target: {fileID: 0}
+    propertyPath: normalMaps.Array.data[1]
+    value: 
+    objectReference: {fileID: 2800000, guid: 3679857a74029f64a85254c9c3c8fe5c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: normalMaps.Array.data[2]
+    value: 
+    objectReference: {fileID: 2800000, guid: 1cb9131e0d70fb042aaba535d2811a02, type: 3}

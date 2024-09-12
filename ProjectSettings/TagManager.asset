@@ -4,26 +4,28 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Coin
-  - Enemy
-  - mailbox
-  - Stairs
-  - Ladder
+  - Stair
+  - Trigger
+  - Item
+  - Carpentry
+  - Office
+  - Lighting
+  - RoomLighting
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - 
   - Water
   - UI
-  - Death Zones
-  - Parkour Objects
-  - Triggers
-  - Physics Objects
-  - whatIsGround
-  - whatIsLedge
-  - whatIsLadder
   - 
+  - 
+  - Building
+  - Highlights
+  - QuestItem
+  - CheckMonster
+  - WallCollider
+  - Player
   - 
   - 
   - 
@@ -43,8 +45,8 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: BG
-    uniqueID: 3966293525
+  - name: highlights
+    uniqueID: 909672971
     locked: 0
   - name: Default
     uniqueID: 0
