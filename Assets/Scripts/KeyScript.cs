@@ -18,14 +18,14 @@ public class KeyScript : MonoBehaviour
         //transform.position = Monster.MakePatrolPoint();
         staticModel = model;
         staticPlayer = player;
-        /*if (position == new Vector3(0, 0, 0))
+        if (position == new Vector3(0, 0, 0))
         {
             position = SetRanPos(gameObject, model);
         } else
         {
             transform.position = position;
-        }*/
-        position = transform.position;
+        }
+        //position = transform.position;
         print("repurpose: " + position);
     }
 

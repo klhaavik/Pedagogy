@@ -6352,7 +6352,7 @@ GameObject:
   m_Component:
   - component: {fileID: 538294912504897320}
   m_Layer: 8
-  m_Name: CarverFinalModelCopy
+  m_Name: CarverTestPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31684,7 +31684,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4858200659078742560}
-  m_Mesh: {fileID: 7807706774916773339, guid: 379b70a2af91a46938464b7c48b52441, type: 3}
+  m_Mesh: {fileID: 7807706774916773339, guid: 1cfc58d35613245b48a5a09bb39fa34d, type: 3}
 --- !u!23 &8779699465469555500
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32421,7 +32421,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4975685020447172130}
-  m_Mesh: {fileID: 2619086233303812490, guid: 1cfc58d35613245b48a5a09bb39fa34d, type: 3}
+  m_Mesh: {fileID: 8487824479494334119, guid: 1cfc58d35613245b48a5a09bb39fa34d, type: 3}
 --- !u!23 &3447938899927108875
 MeshRenderer:
   m_ObjectHideFlags: 0
